@@ -5,4 +5,4 @@ This is for CS 5890/6890 Intro to Virtual Reality at the Computer Science Depart
 
 This is a repo for "Unity tutorial 1: Using a mock HMD".
 
-Unity Version: 2021.3.17f1
+Unity Version: 2022.3.19f1
